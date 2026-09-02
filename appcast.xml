@@ -3,13 +3,13 @@
     <channel>
         <title>VIPN</title>
         <item>
-            <title>1.5</title>
-            <pubDate>Sun, 30 Aug 2026 17:47:45 +0000</pubDate>
-            <sparkle:version>1005000</sparkle:version>
-            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <title>1.5.1</title>
+            <pubDate>Wed, 02 Sep 2026 18:56:11 +0000</pubDate>
+            <sparkle:version>1005001</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://moskal43.github.io/VIPN-releases/VIPN-1.5-macos.md</sparkle:releaseNotesLink>
-            <enclosure url="https://moskal43.github.io/VIPN-releases/VIPN-1.5-macos.zip" length="2350928" type="application/octet-stream" sparkle:edSignature="sYP6Ah8Ri/cq6eaSfidV9bT7PWfvJBAhMiK6uE+4zd16Twrk2Uxm7eFBpUgdXt7xxw0EteEmUpDvwaQPSFnsAg=="/>
+            <sparkle:releaseNotesLink>https://moskal43.github.io/VIPN-releases/VIPN-1.5.1-macos.md</sparkle:releaseNotesLink>
+            <enclosure url="https://moskal43.github.io/VIPN-releases/VIPN-1.5.1-macos.zip" length="2354935" type="application/octet-stream" sparkle:edSignature="nVw2jYELPDFZ5f9MaV54L7V98UlzprzmfOW0mfNpm2bLh9ynFtSlKIxEzIkQANRlVpTOGog9voJBY0LUDiIqCQ=="/>
         </item>
     </channel>
 </rss>
